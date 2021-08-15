@@ -11,9 +11,9 @@ var zahirr = db.get("jepribarus");
 var creatorList = ['Jepri-Barus'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 var vhtear = 'Tebingtinggi123'
-var xteam = 'AkiraBotWa'
+var xteam = 'f5031f90adb27c19'
 var leys = 'OneDayOneCharity'
-const listkey = ["bangjep", "pangkal"];
+const listkey = ["sakura404", "freekey"];
 
 var ytdl = require('ytdl-core');
 var ytpl = require('ytpl');
